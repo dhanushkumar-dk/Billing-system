@@ -1,6 +1,5 @@
 ### Importing required libraries ###
 from tkinter import *
-import random
 from tkinter import ttk
 from tkinter import messagebox
 import sqlite3
